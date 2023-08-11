@@ -1,0 +1,101 @@
+type_id,parent_type_id,type_name
+1,male,t-shirt
+2,male,skirt
+3,male,watch
+4,female,flip flop
+5,female,t-shirt
+6,male,flip flop
+7,female,shoes
+8,male,pants
+9,male,watch
+10,female,pants
+11,female,pants
+12,female,underwear
+13,male,skirt
+14,male,bra
+15,male,flip flop
+16,male,shirt
+17,male,jacket
+18,male,shoes
+19,male,jacket
+20,male,flip flop
+21,female,bra
+22,male,bra
+23,female,shoes
+24,male,pants
+25,male,watch
+26,male,underwear
+27,female,socks
+28,male,jacket
+29,female,shirt
+30,female,t-shirt
+31,male,bra
+32,male,belt
+33,female,socks
+34,female,bra
+35,male,shoes
+36,male,shoes
+37,male,shoes
+38,female,bra
+39,female,pajamas
+40,male,flip flop
+41,female,jacket
+42,female,pants
+43,female,shirt
+44,male,pants
+45,female,skirt
+46,female,socks
+47,male,jacket
+48,female,flip flop
+49,male,pajamas
+50,male,shoes
+51,female,jacket
+52,female,pajamas
+53,male,shirt
+54,female,jacket
+55,male,bra
+56,male,t-shirt
+57,female,bra
+58,female,socks
+59,male,t-shirt
+60,female,pajamas
+61,male,t-shirt
+62,male,pants
+63,female,watch
+64,male,jacket
+65,female,shirt
+66,male,socks
+67,male,shirt
+68,male,skirt
+69,male,pajamas
+70,female,belt
+71,female,pants
+72,female,t-shirt
+73,male,socks
+74,male,bra
+75,female,jacket
+76,female,jacket
+77,male,jacket
+78,female,jacket
+79,female,pajamas
+80,female,flip flop
+81,male,shoes
+82,female,shirt
+83,female,skirt
+84,female,underwear
+85,male,t-shirt
+86,male,pajamas
+87,male,belt
+88,female,pajamas
+89,female,flip flop
+90,male,bra
+91,female,flip flop
+92,female,shirt
+93,female,socks
+94,female,shirt
+95,female,shirt
+96,male,shirt
+97,female,flip flop
+98,male,shirt
+99,female,underwear
+100,female,skirt
